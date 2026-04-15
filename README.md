@@ -24,4 +24,4 @@ Controls:
 - O -> Speed up
 - P -> Slow Down
 
-[![Watch the simulation](https://img.youtube.com/vi/Rqvoz9n-NEs/0.jpg)](https://www.youtube.com/watch?v=Rqvoz9n-NEs)
+
