@@ -1,7 +1,9 @@
 # Slime-Simulation-V1
 Simulates evolutionary dynamics through mutation, natural selection, and environmental pressure using slime-based agents. Built with object-oriented design in Pygame to model emergent behavior and adaptive systems.
 
+# Slime Evolution Simulator
 
+![Simulation Demo](Slime.gif)
 
 All slimes have traits such as speed, vision range, food capacity, and water capacity. When two slimes reproduce, their offspring inherits the average of both parents’ traits with a small chance of mutation. These mutations introduce variation, allowing some slimes to become more “fit” for survival than others.
 
