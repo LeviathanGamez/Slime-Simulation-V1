@@ -23,3 +23,5 @@ Controls:
 - Space -> Pause
 - O -> Speed up
 - P -> Slow Down
+
+[![Watch the simulation](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
