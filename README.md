@@ -20,6 +20,6 @@ Features:
 
 Controls:
 
--Space -> Pause
-- O Speed up
-- P Slow Down
+- Space -> Pause
+- O -> Speed up
+- P -> Slow Down
